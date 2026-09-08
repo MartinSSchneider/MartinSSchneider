@@ -2,9 +2,9 @@
 
 Graduated in the top 5% of 140+ students from the Master of Science in Business Analytics &
 Data Science at IE School of Science and Technology in Madrid. Graduated from the Bachelor of
-Science in Computer Science & Engineering at Eindhoven University of Technology. Spent this
-summer at Kearney building three LLM agent prototypes in ChatGPT. Looking for a full time AI
-or Data role in Switzerland.
+Science in Computer Science & Engineering at Eindhoven University of Technology. Built three
+LLM agent prototypes in ChatGPT at Kearney this summer, for a planned migration to Microsoft
+Copilot Studio. Looking for a full time AI or Data role in Switzerland.
 
 ## Highlights
 
